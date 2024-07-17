@@ -1,0 +1,36 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap'); */
+
+/* .pros{
+    font-size: 50px;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: "Roboto Slab", serif;
+    color: blue;
+
+} */
+/* .bgimg{
+    background-color:chocolate; */
+    /* background: linear-gradient(to right, green,purple,yellow); */
+     /* width:100vw;
+     height:100vh;
+    background: linear-gradient(red,green,yellow,orange,indigo,blue,
+    violet);
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KLsKw0jLKi6EOWlMs2QnOvqlopxW-8i54w&s');
+   background-size: cover;
+   background-position: center;
+} */
+ .topCollor{
+    height: 100px;
+    background-color: #ff9933;
+
+
+ }
+ .middleCollor{
+    height: 100px;
+    background-color: white;
+ }
+ .bottomCollor{
+    height: 100px;
+    background-color:green;
+
+ }
